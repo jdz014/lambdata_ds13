@@ -6,7 +6,10 @@ def enlarge(n):
     """
     return n * 100
 
-#x = 5
-x = int(input("Please choose a number (like 5):"))
-result = enlarge(x)
-print(result)
+
+
+if __name__ == "__main__":
+
+    x = int(input("Please choose a number (like 5):"))
+    result = enlarge(x)
+    print(result)
