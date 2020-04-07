@@ -5,7 +5,7 @@ Description here.
 ## Installation
 
 ```sh
-pip install ______________ # todo: get address from pypi and update this line
+pip install pip install -i https://test.pypi.org/simple/ lambdata-ds13==1.0
 ```
 
 ## Usage
